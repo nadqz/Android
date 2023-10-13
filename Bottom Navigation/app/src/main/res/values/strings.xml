@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Twitch</string>
+    <string name="title_following">Following</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_browse">Browse</string>
+    <string name="title_search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_following">Fragment Following</string>
+    <string name="fragment_discover">Fragment Discover</string>
+    <string name="fragment_browse">Fragment Browse</string>
+    <string name="fragment_search">Fragment Search</string>
+</resources>
