@@ -9,3 +9,8 @@
 
 <p>When a navigation bar icon is tapped or focused, the user is taken to the navigation destination associated with that icon.</p>
 
+<h2>Twitch Bottom Navigation</h2>
+<p>Try to match the bottom navigation bar same as on the Twitch app</p>
+
+![alt text](?raw=true)
+
