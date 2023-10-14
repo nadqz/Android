@@ -24,3 +24,8 @@ Try to match the bottom navigation bar same as on the Twitch app.
 
 ## The Look
 ![nav](https://github.com/nadqz/Android/assets/106371427/2f2f977c-7179-422f-8902-84454e8b1f27)
+
+<br/>
+
+---
+<br/>
