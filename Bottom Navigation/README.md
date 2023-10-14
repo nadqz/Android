@@ -21,4 +21,4 @@
 ![alt text](https://github.com/nadqz/Android/blob/main/Bottom%20Navigation/Example/Picture2.png?raw=true)
 
 <h2>The Look</h2>
-![til](https://github.com/nadqz/Android/blob/main/Bottom%20Navigation/Example/nav.gif)
+![nav](https://github.com/nadqz/Android/assets/106371427/2f2f977c-7179-422f-8902-84454e8b1f27)
