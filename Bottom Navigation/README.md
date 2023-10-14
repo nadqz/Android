@@ -12,5 +12,5 @@
 <h2>Twitch Bottom Navigation</h2>
 <p>Try to match the bottom navigation bar same as on the Twitch app</p>
 
-![alt text](?raw=true)
+![alt text](https://github.com/nadqz/Android/blob/main/Bottom%20Navigation/Example/Picture3.png?raw=true)
 
