@@ -8,9 +8,12 @@ Navigation bars (nav bars) provide access to three to five destinations.<br/>
 The nav bar is positioned at the bottom of screens for convenient access. Each destination is represented by an icon and optional text label.<br/>
 
 When a navigation bar icon is tapped or focused, the user is taken to the navigation destination associated with that icon.<br/>
+
 <br/>
+
 ---
 <br/>
+
 ## Twitch Bottom Navigation
 Try to match the bottom navigation bar same as on the Twitch app.
 
