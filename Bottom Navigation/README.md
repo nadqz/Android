@@ -9,7 +9,7 @@
 
 <p>When a navigation bar icon is tapped or focused, the user is taken to the navigation destination associated with that icon.</p>
 <br></br>
----
+```
 <br></br>
 <h2>Twitch Bottom Navigation</h2>
 <p>Try to match the bottom navigation bar same as on the Twitch app</p>
@@ -21,4 +21,4 @@
 ![alt text](https://github.com/nadqz/Android/blob/main/Bottom%20Navigation/Example/Picture2.png?raw=true)
 
 <h2>The Look</h2>
-![til]([[https://github.com/nadqz/Android/blob/main/Bottom%20Navigation/Example/My%20Video1.gif]
+![til].(https://github.com/nadqz/Android/blob/main/Bottom%20Navigation/Example/My%20Video1.gif).
